@@ -33,7 +33,7 @@ The dataset used for training the model MNIST. The dataset was split into traini
 The model was trained using TensorFlow and Keras on Google Colab. It's a custom model consisting of 4 convolutional layers and 3 dense layers. Max pooling was also used after every convolutional layer. 
 
 #### Cats and Dogs Classification
-The dataset used for training consisted of images of cats and dogs. It was split into training, validation, and test subsets with a ratio of 60\%-15\%-25\% using `sklearn.model_selection.train_test_split()` function. Total 10,000 images were used, with 5000 images of cats and 5000 images of dogs. After splitting the data, there were 
+The dataset used for training consisted of images of cats and dogs. It was split into training, validation, and test subsets with a ratio of 60\%-15\%-25\% using `sklearn.model_selection.train_test_split()` function. A total of 10,000 images were used, with 5000 images of cats and 5000 images of dogs. After splitting the data, there were 
 <ul>
     <li>6500 images in the training set</li>
     <li>1506 images in the validation set</li>
