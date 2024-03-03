@@ -41,3 +41,20 @@ The dataset used for training consisted of images of cats and dogs. It was split
 </ul>
 
 The model was created using TensorFlow and Keras on Google Colab. Ensemble learning was used to get more accurate results. VGG-16 was used and on top of that, 2 fully connected layers were added along with a Dropout layer of $`30\%`$. The pre-trained model, trained on the ImageNet dataset, was used and all the initial layers were frozen. All of the images were reshaped to $`(224, 224, 3)`$ for better results.
+
+## Environment
+
+#### Setting Up the Environment
+
+To use the Raspberry Pi for image classification, a virtual environment with an older version of Python was used. The instructions are provided [here](setup/env.txt).
+
+#### Other Requirements
+
+After setting up the environment, run this command in the virtual environment.
+```
+pip install -r setup/requirements.txt
+```
+
+---
+
+**Contributions**: Code written by Samiya Ali Zaidi.
