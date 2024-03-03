@@ -57,4 +57,6 @@ pip install -r setup/requirements.txt
 
 ---
 
-**Contributions**: Code written by Samiya Ali Zaidi.
+**Contributions**: All of the code was written by [Samiya Ali Zaidi](https://www.linkedin.com/in/samiya-ali-zaidi/). 
+
+Took help from this [video](https://www.youtube.com/watch?v=vekblEk6UPc) to set up the environment.
