@@ -1,0 +1,9 @@
+numpy
+
+opencv-python
+
+scikit-learn
+
+sense-hat
+
+Keras-Preprocessing
